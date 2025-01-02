@@ -1,2 +1,2 @@
-# wpu-resolusi
-repository untuk menyimpan wpu kedepannya
+# Rencana Pencapaian
+Target-target pencapaian pada tahun 2025
